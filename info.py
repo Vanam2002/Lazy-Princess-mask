@@ -82,10 +82,12 @@ if SELF_DELETE == "True":
 
     # Download Tutorial Button #
 DOWNLOAD_TEXT_NAME = "📥 HOW TO DOWNLOAD 📥"
-DOWNLOAD_TEXT_URL = "https://t.me/how_to_downloadk/29"
+DOWNLOAD_TEXT_URL = "https://youtu.be/xWU08jlLeUU"
 
    # Custom Caption Under Button #
-CAPTION_BUTTON = "Get Updates"
-CAPTION_BUTTON_URL = "https://t.me/MM_MOVIESSS"
+CAPTION_BUTTON = " Main Channel"
+CAPTION_BUTTON_URL = "https://t.me/ARmovies_world"
+CAPTION_BUTTON = " Request Group"
+CAPTION_BUTTON_URL = "https://t.me/+xqfxWxoePGs4ZWJl"
 
    # Auto Delete For Bot Sending Files #
